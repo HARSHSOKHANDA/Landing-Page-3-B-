@@ -30,10 +30,10 @@ Welcome to **TinDog**, a fun and stylish landing page for dog lovers! 🐕💖 T
 3. JavaScript for interactivity ✨
 
 ## 🛠️ How to Contribute
-Fork the repository.
-Create a new branch (feature-branch).
-Make your changes and commit them.
-Push to GitHub and open a Pull Request.
+** Fork the repository.
+** Create a new branch (feature-branch).
+** Make your changes and commit them.
+** Push to GitHub and open a Pull Request.
 
 
 ## 🏆 Credits
